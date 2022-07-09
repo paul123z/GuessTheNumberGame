@@ -68,7 +68,7 @@ namespace NumberGuesser
 
             
                         //print error message
-                        PrintColorMessage(ConsoleColor.Red, "Wrong number, please try again");
+                        PrintColorMessage(ConsoleColor.Red, "Wrong number, please try again ");
                     }
             }
 
