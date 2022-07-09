@@ -68,7 +68,7 @@ namespace NumberGuesser
 
             
                         //print error message
-                        PrintColorMessage(ConsoleColor.Red, "Wrong number, please try again ");
+                        PrintColorMessage(ConsoleColor.Red, "Wrong number, please try again");
                     }
             }
 
@@ -102,7 +102,7 @@ namespace NumberGuesser
         static void GetAppInfo()
         {
             string appName = "Number Guesser";
-            string appVersion = "1.0.0";
+            string appVersion = "1.0.1";
             string appAuthor = "Pavol Lantaj";
 
                 //change text color
